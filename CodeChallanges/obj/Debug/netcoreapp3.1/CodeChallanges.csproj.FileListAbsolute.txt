@@ -1,0 +1,11 @@
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.exe
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.deps.json
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.runtimeconfig.json
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.runtimeconfig.dev.json
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.dll
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\bin\Debug\netcoreapp3.1\CodeChallanges.pdb
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\obj\Debug\netcoreapp3.1\CodeChallanges.csprojAssemblyReference.cache
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\obj\Debug\netcoreapp3.1\CodeChallanges.AssemblyInfoInputs.cache
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\obj\Debug\netcoreapp3.1\CodeChallanges.AssemblyInfo.cs
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\obj\Debug\netcoreapp3.1\CodeChallanges.dll
+C:\Users\Fortunato\source\repos\CodeChallanges\CodeChallanges\obj\Debug\netcoreapp3.1\CodeChallanges.pdb
